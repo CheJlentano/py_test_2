@@ -1,0 +1,20 @@
+[
+  {
+    "host": "ftp.dlptest.com",
+    "port": 21,
+    "username": "dlpuser",
+    "password": "rNrKYTX9g7z3RgJRmxWuGHbeu",
+    "remote_dir": "/",
+    "z_prefix": "ABC01",
+    "local_dir": "C:/Test_FTPS/server1"
+  },
+  {
+    "host": "ftp.example.com",
+    "port": 21,
+    "username": "user2",
+    "password": "pass2",
+    "remote_dir": "/folder",
+    "z_prefix": "XYZ99",
+    "local_dir": "C:/Test_FTPS/server2"
+  }
+]
